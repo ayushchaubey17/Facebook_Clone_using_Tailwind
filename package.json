@@ -1,11 +1,10 @@
 {
   "name": "clon_fb",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "vite",
-    "build" :"vite build"
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +14,14 @@
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushchaubey17/Facebook_Clone_using_Tailwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayushchaubey17/Facebook_Clone_using_Tailwind/issues"
+  },
+  "homepage": "https://github.com/ayushchaubey17/Facebook_Clone_using_Tailwind#readme",
+  "description": ""
 }
